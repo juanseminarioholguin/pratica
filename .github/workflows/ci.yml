@@ -29,5 +29,4 @@ jobs:
       - name: Probar Secret
         run: |
           echo "Probando acceso al secreto..."
-          echo "El secreto es: ${{ secrets.API_KEY_RETAIL }}"
           echo "✅ Si ves *** arriba, el secreto está protegido."
