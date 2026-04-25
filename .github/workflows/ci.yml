@@ -29,4 +29,4 @@ jobs:
       - name: Probar Secret
         run: |
           echo "Probando acceso al secreto..."
-          echo "✅ Si ves *** arriba, el secreto está protegido."
+          echo "✅ Si ves *** arriba, el secreto está protegido.listo"
